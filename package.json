@@ -1,0 +1,22 @@
+{
+  "name": "madmage",
+  "version": "1.0.0",
+  "description": "Web app for MadMage Event services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3dMontag/MadMage.git"
+  },
+  "author": "Heather Johnson and Michaela Forehand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r3dMontag/MadMage/issues"
+  },
+  "homepage": "https://github.com/r3dMontag/MadMage#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
